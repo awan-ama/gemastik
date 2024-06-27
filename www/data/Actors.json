@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"battlerName":"rizka","characterIndex":0,"characterName":"rizka","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"rizka","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rizka","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"","characterIndex":0,"characterName":"","classId":3,"equips":[3,0,0,3,4],"faceIndex":0,"faceName":"ira","traits":[],"initialLevel":2,"maxLevel":99,"name":"Ira","nickname":"","note":"","profile":""}
+]
